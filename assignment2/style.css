@@ -1,0 +1,49 @@
+.container h3{
+    font-size: 28px;
+    color: rgb(158, 79, 232);
+    display: flex;
+    justify-content: center;
+}
+.row1{
+   
+    display: flex;
+    justify-content: center;
+ }
+ .rel{
+    width: 68%;
+    height: 373px;
+    background-color: darkgray;
+    position: relative;
+}
+.abs{
+    display: flex;
+    position: absolute;
+    top: 178px;
+}
+.abs img{
+   
+    width: 874px;
+    height: 364px;
+      
+}
+.row2{
+    margin-top: 173px;
+}
+.rel1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.rel1 img{
+    width: 875px;
+height: 560px;
+}
+.abs1{
+    position: absolute;
+    top: 570px;
+    right: 563px;
+}
+.abs1 img{
+    width: 717px;
+height: 643px;
+}
