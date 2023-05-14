@@ -1,0 +1,143 @@
+
+.class{
+    display: flex;
+    justify-content: center;
+   
+    width:100%;
+    height:100%;
+    background-color: aquamarine;
+}
+
+
+
+.label{
+    display: flex;
+    flex-direction: column;
+    margin-left: -280px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin-top: -49.7rem;
+
+}
+.label label{
+    padding-top: 40px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+.input input{
+    padding-top: 25px;
+ 
+}
+#companyname{
+    padding: 10px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#firstname{
+    padding: 10px ;
+    margin-top: 16px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#lastname{
+    padding: 10px;
+ 
+    border: 1px solid  ;
+    border-radius: 8px;
+     margin-top:18px;
+}
+#email{
+    padding: 10px;
+    margin-top: 23px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#title{
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#phone{
+    padding: 10px;
+    margin-top: 18px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#cancel{
+    padding:0;
+    margin-top: 35px;
+    margin-left: -485px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#training{
+    padding: 5px;
+    margin-top: 36px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#jobfun{
+    padding: 5px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#dietry{
+    margin-top:38.3px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+#expectation{
+    margin-top: 21px;
+    border: 1px solid  ;
+    border-radius: 8px;
+}
+.job{
+    margin-top: 157px;
+}
+.input .radio{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.radio input{
+    margin-top:22px;
+    margin-right: 497px;
+    margin-left: 30px;
+}
+.t1{
+    margin-top: -13px;
+    margin-left: 62px;
+}
+.t2{
+    margin-top: -13px;
+    margin-left: 64px;
+}
+.t3{
+    margin-top: -13px;
+    margin-left: 63px;
+}
+.t4{
+    margin-top: -13px;
+    margin-left: 64px;
+}
+.t5{
+    margin-top: -16px;
+    margin-left: 63px;
+}
+
+
+.sub{
+    margin-top: 48px;
+}
+.sub div{
+    margin-top:10px;
+}
+.button{
+    border: none;
+    background-color: blueviolet;
+    padding: 6px 31px;
+}
